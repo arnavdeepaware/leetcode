@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arnavdeepaware/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/arnavdeepaware/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
