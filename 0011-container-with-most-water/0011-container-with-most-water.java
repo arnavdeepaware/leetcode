@@ -40,9 +40,11 @@ class Solution {
             max = Math.max(max, curr);
 
             //Change the pointer with smaller height
-            if(height[l] < height[r]){
+            while(l < r && height[l] <= len){
                 l++;
-            }else{
+            }
+
+            while(l < r && height[r] <= len){
                 r--;
             }
         }
