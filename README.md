@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arnavdeepaware/leetcode/tree/master/0011-container-with-most-water) |
 | [1241-decompress-run-length-encoded-list](https://github.com/arnavdeepaware/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arnavdeepaware/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arnavdeepaware/leetcode/tree/master/0011-container-with-most-water) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arnavdeepaware/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
