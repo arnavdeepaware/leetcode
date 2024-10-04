@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/arnavdeepaware/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/arnavdeepaware/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
