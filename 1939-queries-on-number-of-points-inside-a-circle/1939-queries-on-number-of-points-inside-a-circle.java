@@ -16,7 +16,7 @@ class Solution {
                 int x = points[j][0];
                 int y = points[j][1];
                 
-                if(Math.sqrt(Math.pow(x - xCenter,2) + Math.pow(y - yCenter, 2)) <= radius){
+                if(((x - xCenter) * (x - xCenter)) + (y - yCenter) * (y - yCenter) <= radius * radius){
                     count++;
                 }
             }
