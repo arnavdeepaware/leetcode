@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/arnavdeepaware/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/arnavdeepaware/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/arnavdeepaware/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/arnavdeepaware/leetcode/tree/master/2058-concatenation-of-array) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
