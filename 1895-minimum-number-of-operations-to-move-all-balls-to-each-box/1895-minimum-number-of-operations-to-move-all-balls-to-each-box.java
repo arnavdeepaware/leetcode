@@ -5,15 +5,19 @@ class Solution {
         int rightCount = 0;
         int leftSum = 0;
         int rightSum = 0;
+        int n = boxes.length();
+
+        int[] balls = new int[n];
 
         int i = 0;
         for(char a: boxes.toCharArray()){
+            int val = Character.getNumericValue(a);
+            balls[i] = val;
+
             if(i == 0){
                 i++;
                 continue;
             }
-            int val = Character.getNumericValue(a);
-            System.out.println(val);
 
             if(val == 1){
                 rightCount ++;
@@ -22,12 +26,12 @@ class Solution {
             i++;
         }
 
-        System.out.println("Right Sum = " + rightSum + "\nRight Count = " + rightCount);
-        int[] res = new int[boxes.length()];
+        // System.out.println("Right Sum = " + rightSum + "\nRight Count = " + rightCount);
+        int[] res = new int[n];
         res[0] = leftSum + rightSum;
 
         int curr = 0;
-        int prev = Character.getNumericValue(boxes.charAt(0));
+        int prev = balls[0];
 
         /*
              c
@@ -41,8 +45,8 @@ class Solution {
             right sum = 1 = 0
          */
 
-         for(i = 1; i < boxes.length(); i++){
-            curr = Character.getNumericValue(boxes.charAt(i));
+         for(i = 1; i < n; i++){
+            curr = balls[i];
 
             if(prev == 1){
                 leftCount ++;
@@ -55,8 +59,6 @@ class Solution {
             }
 
             rightSum -= rightCount;
-
-            System.out.println("Right Sum = " + rightSum + "\nRight Count = " + rightCount);
             res[i] = leftSum + rightSum;
 
             prev = curr;
