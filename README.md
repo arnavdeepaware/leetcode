@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/arnavdeepaware/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/arnavdeepaware/leetcode/tree/master/1944-truncate-sentence) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/arnavdeepaware/leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
