@@ -6,39 +6,41 @@ class Solution {
             return false;
         }
 
-        /*
-                 r
-            0,3,2,1
-              l
-        */
+        //Max Variables
+        int max = -1;
+        int maxIndex = 0;
 
-        boolean increasing = true;
-        int prev = -1;
-        int curr;
-
-        //Traverse the array
-        for(int i=0; i < arr.length; i++){
-            curr = arr[i];
-
-            if(prev == curr){
-                return false;
+        //Finding Max Element
+        for(int i =0; i < arr.length; i++){
+            if (arr[i] > max){
+                max = arr[i];
+                maxIndex = i;
             }
-
-            if(increasing){
-                if(prev > curr){
-                    if(i == 1){
-                        return false;
-                    }
-                    increasing = false;
-                }
-            } else {
-                if (prev <= curr){
-                    return false;
-                }
-            }
-            prev = curr;
         }
 
-        return !increasing;
+        //Edge case where array is strictly decreasing or strictly increasing only
+        if(maxIndex == 0 || maxIndex == arr.length - 1){
+            return false;
+        }
+
+        //Pointers
+        int left = 0;
+        int right = maxIndex;
+
+        while(left < maxIndex){
+            if(arr[left] >= arr[left+1]){
+                return false;
+            }
+            left++;
+        }
+
+        while(right < arr.length - 1){
+            if(arr[right] <= arr[right+1]){
+                return false;
+            }
+            right++;
+        }
+
+        return true;
     }
 }
