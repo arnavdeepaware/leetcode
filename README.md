@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arnavdeepaware/leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
@@ -144,5 +145,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
