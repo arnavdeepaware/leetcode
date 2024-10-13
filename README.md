@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arnavdeepaware/leetcode/tree/master/0011-container-with-most-water) |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -115,15 +116,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,4 +140,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
