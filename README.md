@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arnavdeepaware/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arnavdeepaware/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
@@ -155,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
