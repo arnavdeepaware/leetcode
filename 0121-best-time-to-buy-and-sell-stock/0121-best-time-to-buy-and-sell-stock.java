@@ -1,31 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        /*
-            - Two pointers
-            - Left points to the days we buy (lower)
-            - Right goes and counts profits
-        */
-        
-        int min = prices[0];
-        int maxProfit = 0;
+        int buy = prices[0];
         int profit = 0;
-
-        int l = 0;
-        int r = 1;
-
-        while(r < prices.length){
-            
-            if(prices[r] < min){
-                min = prices[r];
-                l = r;
-            } else {
-                profit = prices[r] - min;
-                maxProfit = Math.max(profit, maxProfit);
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
             }
-
-            r++;
         }
-
-        return maxProfit;
+        return profit;
     }
 }
