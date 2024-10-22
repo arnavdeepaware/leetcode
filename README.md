@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/arnavdeepaware/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arnavdeepaware/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
