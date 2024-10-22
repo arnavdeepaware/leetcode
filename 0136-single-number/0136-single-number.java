@@ -1,19 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
         
-        HashSet<Integer> set = new HashSet<Integer>();
 
-        int sum = 0;
-
-        for(int n: nums){
-            if(set.contains(n)){
-                sum -= n;
-            } else {
-                set.add(n);
-                sum += n;
+        Arrays.sort(nums);
+        int i;
+        
+        for(i = 0 ; i < nums.length - 1; i += 2){
+            if(nums[i] != nums[i+1]){
+                return nums[i];
             }
         }
 
-        return sum;
+        return nums[i];
     }
 }
