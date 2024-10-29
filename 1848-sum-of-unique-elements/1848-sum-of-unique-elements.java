@@ -1,27 +1,22 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        //                   i
-        // 0 1 1 1 2 4 4 5 5
-        
-        Arrays.sort(nums);
-        int sum = 0;
-        int i;
 
-        for(i=0; i<nums.length - 1; i++){
-            if(nums[i] == nums[i+1]){
-                while(i < nums.length - 1 && nums[i+1] == nums[i]){
-                    i++;
-                }
-            } else {
-                sum += nums[i];
+        //Counting Sort with 2 Arrays
+
+        int[] count = new int[101]; //Given Constraint -> 1 <= nums[i] <= 100
+
+        for(int i=0; i<nums.length; i++){
+            count[nums[i]] ++;
+        }
+
+        int sum = 0;
+        for(int i=0; i< count.length; i++){
+            if(count[i] == 1){
+                sum += i;
             }
         }
 
-        if(i == nums.length - 1){
-            sum += nums[i];
-        }
-
         return sum;
-
+        
     }
 }
