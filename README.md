@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/arnavdeepaware/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/arnavdeepaware/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/arnavdeepaware/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/arnavdeepaware/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
