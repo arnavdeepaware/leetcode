@@ -6,32 +6,19 @@ class Solution {
             return s.length();
         }
 
-        HashSet<Character> set = new HashSet<>();
-        set.add(s.charAt(0));
+        HashMap<Character, Integer> map = new HashMap<>();
+        map.put(s.charAt(0), 0);
 
-        int n = s.length();
         int max = 0;
-        int r = 1;
-        int l = 0;
+        int left = 0;
 
-        while (r < n) {
-
-            // Repeating characters
-            if (set.contains(s.charAt(r))) {
-                while (s.charAt(l) != s.charAt(r)) {
-                    set.remove(s.charAt(l));
-                    l++;
-                }
-                l++;
-            }
-            // Non-Repeating Characters
-            else {
-                set.add(s.charAt(r));
-            }
-
-            max = Math.max(max, r - l + 1);
-            r++;
-
+        for(int i = 1; i < s.length(); i++){
+            if(map.containsKey(s.charAt(i))){
+                left = Math.max(left, map.get(s.charAt(i)) + 1);
+            } 
+            
+            map.put(s.charAt(i), i);
+            max = Math.max(max, i - left + 1);
         }
 
         return max;
