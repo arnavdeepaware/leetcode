@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arnavdeepaware/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/arnavdeepaware/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavdeepaware/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -204,4 +206,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arnavdeepaware/leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
