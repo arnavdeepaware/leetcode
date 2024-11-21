@@ -1,37 +1,24 @@
 class Solution {
     public String findDifferentBinaryString(String[] nums) {
         /*
-            - Range of possible nums will be [0, 2^n)
-            - Max 16 nums
-            - Convert each from string-binary to int and store into a set
-            - Loop from 2^n-1 to 0
-            - find missing number and convert to string-binary
-            - Return missing number
+            - We traverse nums 
+            - At each element i,
+                - We add the opposite bit to our answer
+                - This ensures that current num sequence will not result in a repeating sequence
+            - We do this at every nums element
         */
 
-        HashSet<Integer> set = new HashSet<Integer>();
 
-        int n = nums.length;
-        String ans = "0";
+        StringBuilder sb = new StringBuilder();
 
         for(int i = 0; i < nums.length; i++){
-            int num = Integer.parseInt(nums[i], 2);
-            set.add(num);
-        }
-
-        for(int i = (int) Math.pow(2, n) - 1; i >= 0; i--){
-            if(set.contains(i)){
-                continue;
+            if(nums[i].charAt(i) == '0'){
+                sb.append('1');
             }else{
-                return "0".repeat(n - Integer.toBinaryString(i).length()) + Integer.toBinaryString(i);
-                // ans = Integer.toBinaryString(i);
+                sb.append('0');
             }
         }
 
-        // while(ans.length() < n){
-        //     ans = "0" + ans;
-        // }
-
-        return ans;
+        return sb.toString();
     }
 }
