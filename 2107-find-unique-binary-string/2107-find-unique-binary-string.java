@@ -23,13 +23,14 @@ class Solution {
             if(set.contains(i)){
                 continue;
             }else{
-                ans = Integer.toBinaryString(i);
+                return "0".repeat(n - Integer.toBinaryString(i).length()) + Integer.toBinaryString(i);
+                // ans = Integer.toBinaryString(i);
             }
         }
 
-        while(ans.length() < n){
-            ans = "0" + ans;
-        }
+        // while(ans.length() < n){
+        //     ans = "0" + ans;
+        // }
 
         return ans;
     }
