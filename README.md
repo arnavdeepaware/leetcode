@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arnavdeepaware/leetcode/tree/master/0055-jump-game) |
@@ -237,5 +239,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
