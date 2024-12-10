@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1241-decompress-run-length-encoded-list](https://github.com/arnavdeepaware/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/arnavdeepaware/leetcode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1791-richest-customer-wealth](https://github.com/arnavdeepaware/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
@@ -195,10 +197,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
