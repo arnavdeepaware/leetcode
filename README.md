@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
+| [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arnavdeepaware/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
