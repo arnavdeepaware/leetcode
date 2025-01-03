@@ -11,22 +11,21 @@ class Solution {
         // Sum of the array
         long sum = 0;
         for(int i = 0; i < nums.length; i++){
-            sum += (long) nums[i];
+            sum += nums[i];
         }
 
-        System.out.println("Total sum: " + sum);
+        //System.out.println("Total sum: " + sum);
 
         //Find valid splits
         long leftSum = 0;
-        long rightSum = sum;
         int count = 0;
 
         for(int i = 0; i < nums.length - 1; i++){
-            leftSum += (long)nums[i];
-            rightSum -= (long)nums[i];
+            leftSum += nums[i];
+            long right = sum - leftSum;
 
             //Check for split
-            if(leftSum >= rightSum){
+            if(leftSum >= right){
                 count ++;
             }
         }
