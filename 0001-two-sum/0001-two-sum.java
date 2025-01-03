@@ -1,16 +1,29 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
-        int[] res = new int[2];
-        for(int i= 0; i < nums.length; i++){
-            for(int j = i+1; j < nums.length; j++){
-                if(nums[i] + nums[j] == target){
-                    res[0] = i;
-                    res[1] = j;
-                    return res;
-                }
+        /*
+            - We need to store index and value
+            - Use a hashmap
+            - Traverse the array and keep adding the value to the hashmap
+            - Check if target - value exists in the map
+                - If yes, we have found our unique solution
+                - If no, continue
+        */
+
+        int[] ans = new int[2];
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(nums[0], 0);
+
+        for(int i = 1; i < nums.length; i++){
+            //Check for target - value
+            if(map.containsKey(target - nums[i])){
+                ans[0] = i;
+                ans[1] = map.get(target - nums[i]);
+                return ans;
             }
+
+            map.put(nums[i], i);
         }
-        return res;
+
+        return ans;
     }
 }
