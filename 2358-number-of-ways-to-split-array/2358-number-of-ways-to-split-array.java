@@ -18,14 +18,15 @@ class Solution {
 
         //Find valid splits
         long leftSum = 0;
+        long rightSum = sum;
         int count = 0;
 
         for(int i = 0; i < nums.length - 1; i++){
             leftSum += nums[i];
-            long right = sum - leftSum;
+            rightSum -= nums[i];
 
             //Check for split
-            if(leftSum >= right){
+            if(leftSum >= rightSum){
                 count ++;
             }
         }
