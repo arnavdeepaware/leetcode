@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arnavdeepaware/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/arnavdeepaware/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
 | [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/arnavdeepaware/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/arnavdeepaware/leetcode/tree/master/2358-number-of-ways-to-split-array) |
