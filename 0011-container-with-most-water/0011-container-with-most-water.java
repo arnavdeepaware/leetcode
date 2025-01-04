@@ -1,55 +1,21 @@
 class Solution {
     public int maxArea(int[] height) {
-        /*
-            - Need to return the rect with max area
-            - sort is not ideal as index are important
-            
-            - Use a two pointer approach
-            - Before every iteration,
-                - Max will store max area until now
-            - During Each iteration,
-                - Curr will be current area
-                - Compare max and curr and set max to greater value
-                - Change the pointer with smaller height
-            - After the loop,
-                - max stores the area of max rect
-            
-            Edge Cases:
-                - Min 2 elements in array
-                - Height will be non-negative
-                - No edge cases
-        */
-
-        //Pointers
-        int l = 0;                  //Left Pointer
-        int r = height.length - 1;  //Right Pointer
-
-        //Max Area Var
+        
+        int left = 0;
+        int right = height.length - 1;
         int max = 0;
 
-        //Traversal
-        while(l<r){
-            
-            //Finds the current area
-            int width = r - l;      //Right - left indexes(pointers)
-            int len = Math.min(height[r], height[l]);  // Will use the smaller height
+        while(left < right){
+            int area = (right - left) * Math.min(height[left], height[right]);
+            max = Math.max(area, max);
 
-            int curr = width * len;
-
-            //Update max value
-            max = Math.max(max, curr);
-
-            //Change the pointer with smaller height
-            while(l < r && height[l] <= len){
-                l++;
-            }
-
-            while(l < r && height[r] <= len){
-                r--;
+            if(height[left] <= height[right]){
+                left++;
+            }else{
+                right --;
             }
         }
 
-        //max stores the desired area
         return max;
     }
 }
