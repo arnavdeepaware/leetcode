@@ -1,22 +1,20 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        //Brute Force using nested loops
+        
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
 
+        int prefix = 0;
         int count = 0;
-        for(int i = 0; i < nums.length; i++){
-            
-            if(nums[i] == k){
-                count++;
+
+        for(int n: nums){
+            prefix += n;
+
+            if(map.containsKey(prefix - k)){
+                count += map.get(prefix - k);
             }
 
-            int sum = nums[i];
-            
-            for(int j = i + 1; j < nums.length; j++){
-                sum += nums[j];
-                if(sum == k){
-                    count ++;
-                }
-            }
+            map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
 
         return count;
