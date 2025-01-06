@@ -9,26 +9,29 @@ class Solution {
         //Left side and Prefix
         int[] left = new int[n];
         int prefix = Character.getNumericValue(boxes.charAt(0));
-        left[0] = 0;
+        int prev = 0;
 
         for(int i=1; i<n; i++){
-            left[i] = left[i-1] + prefix;
+            left[i] = prev + prefix;
             prefix += Character.getNumericValue(boxes.charAt(i));
+            prev = left[i];
         }   
 
         //Right side and suffix
-        int[] right = new int[n];
+        // int[] right = new int[n];
         int suffix = Character.getNumericValue(boxes.charAt(n-1));
-        right[n-1] = 0;
+        prev = 0;
 
         for(int i = n-2; i >= 0; i--){
-            right[i] = right[i+1] + suffix;
+            int curr = prev + suffix;
+            left[i] += curr;
             suffix += Character.getNumericValue(boxes.charAt(i));
+            prev = curr;
         }
 
-        for(int i=0; i <n; i++){
-            left[i] += right[i];
-        }
+        // for(int i=0; i <n; i++){
+        //     left[i] += right[i];
+        // }
 
         return left;
     }
