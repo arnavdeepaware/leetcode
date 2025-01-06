@@ -1,69 +1,35 @@
 class Solution {
     public int[] minOperations(String boxes) {
+        // Find prefix sum and minOperations from left side
+        // Find suffix sum and minOperation from right side
+        // Add the two and return ans
         
-        int leftCount = 0;
-        int rightCount = 0;
-        int leftSum = 0;
-        int rightSum = 0;
         int n = boxes.length();
 
-        int[] balls = new int[n];
+        //Left side and Prefix
+        int[] left = new int[n];
+        int prefix = Character.getNumericValue(boxes.charAt(0));
+        left[0] = 0;
 
-        int i = 0;
-        for(char a: boxes.toCharArray()){
-            int val = Character.getNumericValue(a);
-            balls[i] = val;
+        for(int i=1; i<n; i++){
+            left[i] = left[i-1] + prefix;
+            prefix += Character.getNumericValue(boxes.charAt(i));
+        }   
 
-            if(i == 0){
-                i++;
-                continue;
-            }
+        //Right side and suffix
+        int[] right = new int[n];
+        int suffix = Character.getNumericValue(boxes.charAt(n-1));
+        right[n-1] = 0;
 
-            if(val == 1){
-                rightCount ++;
-                rightSum += i;
-            }
-            i++;
+        for(int i = n-2; i >= 0; i--){
+            right[i] = right[i+1] + suffix;
+            suffix += Character.getNumericValue(boxes.charAt(i));
         }
 
-        // System.out.println("Right Sum = " + rightSum + "\nRight Count = " + rightCount);
-        int[] res = new int[n];
-        res[0] = leftSum + rightSum;
+        for(int i=0; i <n; i++){
+            left[i] += right[i];
+        }
 
-        int curr = 0;
-        int prev = balls[0];
-
-        /*
-             c
-            110
-            p
-
-            left count = 0 = 1
-            left sum = 0 = 1
-
-            right count = 1 = 0
-            right sum = 1 = 0
-         */
-
-         for(i = 1; i < n; i++){
-            curr = balls[i];
-
-            if(prev == 1){
-                leftCount ++;
-            }
-            leftSum += leftCount;
-            
-            if(curr == 1){
-                rightCount --;
-                rightSum --;
-            }
-
-            rightSum -= rightCount;
-            res[i] = leftSum + rightSum;
-
-            prev = curr;
-         }
-
-         return res;
+        return left;
     }
 }
