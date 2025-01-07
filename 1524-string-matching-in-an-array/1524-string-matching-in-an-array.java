@@ -5,10 +5,8 @@ class Solution {
 
         for(String word: words){
             for(String temp: words){
-                if(!word.equals(temp)){
-                    if(word.contains(temp) && !ans.contains(temp)){
+                if(!word.equals(temp) && word.contains(temp) && !ans.contains(temp)){
                         ans.add(temp);
-                    }
                 }
             }
         }
