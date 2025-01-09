@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arnavdeepaware/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/arnavdeepaware/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/arnavdeepaware/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/arnavdeepaware/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/arnavdeepaware/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arnavdeepaware/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arnavdeepaware/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
