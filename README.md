@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/arnavdeepaware/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavdeepaware/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/arnavdeepaware/leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
+| [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
