@@ -1,23 +1,11 @@
 class Solution {
     public char findTheDifference(String s, String t) {
+        
+        char result = 0;
 
-        int[] sFreq = new int[26];
-        int[] tFreq = new int[26];
+        for(char c: s.toCharArray()) result ^= c;
+        for(char c: t.toCharArray()) result ^= c;
 
-        for(int i = 0; i < s.length(); i++){
-            sFreq[s.charAt(i) - 'a'] ++;
-        }
-
-        for(int i = 0; i < t.length(); i++){
-            tFreq[t.charAt(i) - 'a'] ++;
-        }
-
-        for(int i = 0; i < 26; i++){
-            if(sFreq[i] < tFreq[i]){
-                return (char)(i + 'a');
-            }
-        }
-
-        return 'a';
+        return result;
     }
 }
