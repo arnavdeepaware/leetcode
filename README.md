@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/arnavdeepaware/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
@@ -276,11 +277,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
