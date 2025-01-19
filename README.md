@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavdeepaware/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arnavdeepaware/leetcode/tree/master/0048-rotate-image) |
+| [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0898-transpose-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0898-transpose-matrix) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/arnavdeepaware/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
