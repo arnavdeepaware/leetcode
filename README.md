@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/arnavdeepaware/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arnavdeepaware/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/arnavdeepaware/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2685-first-completely-painted-row-or-column](https://github.com/arnavdeepaware/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arnavdeepaware/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/arnavdeepaware/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arnavdeepaware/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arnavdeepaware/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2685-first-completely-painted-row-or-column](https://github.com/arnavdeepaware/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arnavdeepaware/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/arnavdeepaware/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arnavdeepaware/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/arnavdeepaware/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2685-first-completely-painted-row-or-column](https://github.com/arnavdeepaware/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
