@@ -1,8 +1,7 @@
 class Solution {
     public int romanToInt(String s) {
         
-        HashMap <Character, Integer> hm = new HashMap <Character, Integer> ();
-
+        HashMap<Character, Integer> hm = new HashMap<>();
         hm.put('I', 1);
         hm.put('V', 5);
         hm.put('X', 10);
@@ -11,21 +10,19 @@ class Solution {
         hm.put('D', 500);
         hm.put('M', 1000);
 
-        int sum = 0;
-        int prev = Integer.MAX_VALUE;
-       
+        int ans  = 0;
 
-        for (int i = 0; i < s.length(); i++){
-            
-            if (hm.get(s.charAt(i)) > prev){
-                sum -= prev * 2;
-            } 
+        for(int i = 0; i < s.length()-1; i++){
+            int val = hm.get(s.charAt(i));
 
-            sum += hm.get(s.charAt(i));
-            prev = hm.get(s.charAt(i));
-            //System.out.println("i = " + i + "; sum = " + sum);
+            if(val < hm.get(s.charAt(i+1))){
+                ans -= val;
+            }else{
+                ans += val;
+            }
         }
 
-    return sum;
+        ans += hm.get(s.charAt(s.length() - 1));
+        return ans;
     }
 }
