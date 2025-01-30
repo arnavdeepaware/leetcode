@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/arnavdeepaware/leetcode/tree/master/1558-course-schedule-iv) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/arnavdeepaware/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/arnavdeepaware/leetcode/tree/master/1558-course-schedule-iv) |
