@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavdeepaware/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/arnavdeepaware/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/arnavdeepaware/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/arnavdeepaware/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavdeepaware/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/arnavdeepaware/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/arnavdeepaware/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/arnavdeepaware/leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1502-construct-k-palindrome-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1502-construct-k-palindrome-strings) |
