@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/arnavdeepaware/leetcode/tree/master/1944-truncate-sentence) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2048-build-array-from-permutation](https://github.com/arnavdeepaware/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/arnavdeepaware/leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/arnavdeepaware/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/arnavdeepaware/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arnavdeepaware/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Geometry
 |  |
 | ------- |
