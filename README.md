@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arnavdeepaware/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/arnavdeepaware/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arnavdeepaware/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
