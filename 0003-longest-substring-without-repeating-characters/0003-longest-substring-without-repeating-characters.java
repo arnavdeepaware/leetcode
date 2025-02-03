@@ -1,26 +1,49 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        // Edge Case
-        if (s.length() < 2) {
+
+        /*
+            - 2 cases
+            - non-repeating char: continue
+            - repeating char: 
+                - before moving update max
+                - move left while same char and less or equal to i
+                - continue loop
+        */
+
+        //Edge Case
+        if(s.length() < 2){
             return s.length();
         }
-
-        HashMap<Character, Integer> map = new HashMap<>();
-        map.put(s.charAt(0), 0);
-
-        int max = 0;
+        
+        //Vars
+        int max = 1;
         int left = 0;
 
+        //Set
+        HashSet<Character> currWord = new HashSet<>();
+        currWord.add(s.charAt(0));
+
+        //Traversal
         for(int i = 1; i < s.length(); i++){
-            if(map.containsKey(s.charAt(i))){
-                left = Math.max(left, map.get(s.charAt(i)) + 1);
-            } 
-            
-            map.put(s.charAt(i), i);
-            max = Math.max(max, i - left + 1);
+
+            //Check repeating chars
+            if(currWord.contains(s.charAt(i))){
+
+                //Move left pointer
+                while(s.charAt(left) != s.charAt(i)){
+                    currWord.remove(s.charAt(left));
+                    left++;
+                }
+                left++;
+            }
+
+            currWord.add(s.charAt(i));
+            //Update Max
+            max = Math.max(currWord.size(), max);
         }
 
+        max = Math.max(currWord.size(), max);
         return max;
     }
 }
