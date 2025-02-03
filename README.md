@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavdeepaware/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/arnavdeepaware/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/arnavdeepaware/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
