@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnavdeepaware/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavdeepaware/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/arnavdeepaware/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
