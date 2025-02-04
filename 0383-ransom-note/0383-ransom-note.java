@@ -1,25 +1,22 @@
 class Solution {
-    public boolean canConstruct(String ransomNote, String magazine) {
-        
-        if(ransomNote.length() > magazine.length()){
+    public boolean canConstruct(String r, String m) {
+
+        if(r.length() > m.length()){
             return false;
         }
 
-        HashMap<Character, Integer> freq = new HashMap<>();
+        int[] freq = new int[26];
 
-        for(int i = 0; i < magazine.length(); i++){
-            int val = freq.getOrDefault(magazine.charAt(i), 0);
-            freq.put(magazine.charAt(i), ++val);
+        for(int i = 0; i < m.length(); i++){
+            freq[m.charAt(i) - 'a']++;
         }
-        
-        for(int i = 0; i < ransomNote.length(); i++){
-            char curr = ransomNote.charAt(i);
 
-            if(freq.containsKey(curr) && freq.get(curr) > 0){
-                freq.put(curr, freq.get(curr) - 1);
-            }else{
+        for(int i = 0; i < r.length(); i++){
+            if(freq[r.charAt(i) - 'a'] <= 0){
                 return false;
             }
+
+            freq[r.charAt(i) - 'a']--;
         }
 
         return true;
