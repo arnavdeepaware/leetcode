@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavdeepaware/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/arnavdeepaware/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arnavdeepaware/leetcode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/arnavdeepaware/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2434-design-a-number-container-system](https://github.com/arnavdeepaware/leetcode/tree/master/2434-design-a-number-container-system) |
 ## String Matching
 |  |
@@ -516,4 +520,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/arnavdeepaware/leetcode/tree/master/2434-design-a-number-container-system) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
