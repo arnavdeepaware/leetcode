@@ -1,29 +1,19 @@
-class Solution {
+public class Solution {
     public int trap(int[] height) {
-
-        // DP Approach
-        int n = height.length;
-
-        int[] left = new int[n];
-        int[] right = new int[n];
-
-        // Finding left max for each height, excluding itself
-        left[0] = height[0];
-        for (int i = 1; i < n; i++) {
-            left[i] = Math.max(left[i - 1], height[i]);
+        int left = 0, right = height.length - 1;
+        int ans = 0;
+        int left_max = 0, right_max = 0;
+        while (left < right) {
+            if (height[left] < height[right]) {
+                left_max = Math.max(left_max, height[left]);
+                ans += left_max - height[left];
+                ++left;
+            } else {
+                right_max = Math.max(right_max, height[right]);
+                ans += right_max - height[right];
+                --right;
+            }
         }
-
-        // Right side
-        right[n - 1] = height[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            right[i] = Math.max(right[i + 1], height[i]);
-        }
-
-        int water = 0;
-        for (int i = 1; i < n - 1; i++) {
-            water += Math.min(left[i], right[i]) - height[i];
-        }
-
-        return water;
+        return ans;
     }
 }
