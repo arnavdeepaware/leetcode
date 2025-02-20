@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/arnavdeepaware/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arnavdeepaware/leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/arnavdeepaware/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arnavdeepaware/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavdeepaware/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/arnavdeepaware/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/arnavdeepaware/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/arnavdeepaware/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arnavdeepaware/leetcode/tree/master/0205-isomorphic-strings) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/arnavdeepaware/leetcode/tree/master/0068-text-justification) |
 | [0898-transpose-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arnavdeepaware/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/arnavdeepaware/leetcode/tree/master/2048-build-array-from-permutation) |
