@@ -1,24 +1,30 @@
 class Solution {
     public String findDifferentBinaryString(String[] nums) {
-        /*
-            - We traverse nums 
-            - At each element i,
-                - We add the opposite bit to our answer
-                - This ensures that current num sequence will not result in a repeating sequence
-            - We do this at every nums element
-        */
 
+        int n = nums[0].length();
+        int possibilities = (int)Math.pow(2, n);
 
-        StringBuilder sb = new StringBuilder();
+        Set<Integer> set = new HashSet<>();
 
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i].charAt(i) == '0'){
-                sb.append('1');
-            }else{
-                sb.append('0');
+        for(String num: nums){
+            set.add(Integer.parseInt(num, 2));
+            System.out.println(Integer.parseInt(num, 2));
+        }
+
+        String res = "";
+
+        for(int i = 0; i < possibilities; i++){
+            
+            if(!set.contains(i)){
+                res = Integer.toBinaryString(i);
+                break;
             }
         }
 
-        return sb.toString();
+        while(res.length() < n){
+            res = "0" + res;
+        }
+
+        return res;
     }
 }
