@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arnavdeepaware/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arnavdeepaware/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/arnavdeepaware/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arnavdeepaware/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/arnavdeepaware/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/arnavdeepaware/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -431,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -511,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arnavdeepaware/leetcode/tree/master/2434-design-a-number-container-system) |
 ## String Matching
