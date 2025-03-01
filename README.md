@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/arnavdeepaware/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arnavdeepaware/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arnavdeepaware/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/arnavdeepaware/leetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/arnavdeepaware/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arnavdeepaware/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavdeepaware/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/arnavdeepaware/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/arnavdeepaware/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/arnavdeepaware/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arnavdeepaware/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
