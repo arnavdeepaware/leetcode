@@ -21,24 +21,21 @@ class Solution {
             return false;
         }
 
-        HashMap <Character, Integer> freq = new HashMap<>();
+        int[] freq = new int[26];
 
         //Populate the hashmap
         for(char c : s.toCharArray()){
-            int temp = freq.getOrDefault(c, 0);
-            temp++;
-            freq.put(c, temp);
+            freq[c - 'a'] ++;
         }
 
         //Check for anagram in t
         for(char c: t.toCharArray()){
-            int temp = freq.getOrDefault(c, 0);
-            if(temp <= 0){
+            
+            if(freq[c - 'a'] <= 0){
                 return false;
             }
 
-            temp --;
-            freq.put(c, temp);
+            freq[c - 'a']--;
         }
 
         return true;
