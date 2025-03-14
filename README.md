@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arnavdeepaware/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/arnavdeepaware/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arnavdeepaware/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/arnavdeepaware/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arnavdeepaware/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/arnavdeepaware/leetcode/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [1074-high-five](https://github.com/arnavdeepaware/leetcode/tree/master/1074-high-five) |
@@ -386,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arnavdeepaware/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -502,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/arnavdeepaware/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/arnavdeepaware/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -637,8 +643,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
