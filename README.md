@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [1074-high-five](https://github.com/arnavdeepaware/leetcode/tree/master/1074-high-five) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/arnavdeepaware/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [1752-arithmetic-subarrays](https://github.com/arnavdeepaware/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/arnavdeepaware/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/arnavdeepaware/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/arnavdeepaware/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1488-sort-integers-by-the-power-value](https://github.com/arnavdeepaware/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/arnavdeepaware/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
 | ------- |
