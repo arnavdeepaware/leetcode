@@ -29,98 +29,68 @@ class Solution {
             - find max room
         */
 
-        //Sorting and heaps
-        Arrays.sort(meetings, (a,b) -> a[0] - b[0]);
 
-        PriorityQueue<int[]> free = new PriorityQueue<>((a, b) -> a[3] - b[3]);
+        // Count array and heaps
+        int[] roomCounts = new int[n];  //n-1 rooms
 
-        PriorityQueue<int[]> taken = new PriorityQueue<>((a, b) -> {
-            if(a[1] == b[1]){
-                return a[3] - b[3];
+        // int[3] with endtime, count, roomNumber
+        PriorityQueue<int[]> freeRooms = new PriorityQueue<>((a,b) -> a[2] - b[2]);
+        PriorityQueue<int[]> usedRooms = new PriorityQueue<>((a,b) -> {
+            //endtime first then room number
+            if(a[0] == b[0]){
+                return a[2] - b[2];
             }
 
-            return a[1] - b[1];
+            return a[0] - b[0];
         });
 
-        //Populate free heap
+        //Populate heap
         for(int i = 0; i < n; i++){
-            int[] meeting = new int[]{
-                0, 0, 0, i 
-            };
-
-            free.offer(meeting);
+            int[] room = new int[]{0, 0, i};
+            freeRooms.offer(room);
         }
+
+        Arrays.sort(meetings, (a,b) -> a[0] - b[0]);
 
         //Traversal
-        for(int i = 0; i < meetings.length; i++){
+        for(int[] meeting: meetings){
+            int start = meeting[0], duration = meeting[1] - meeting[0], difference = 0;
 
-            while(!taken.isEmpty() && taken.peek()[1] <= meetings[i][0]){
-                free.offer(taken.poll());
+            //Update usedRooms to freeRooms
+            while(!usedRooms.isEmpty() && usedRooms.peek()[0] <= meeting[0]){
+                freeRooms.offer(usedRooms.poll());
             }
-            
-            //Check if a room is free
-            if(free.size() > 0){
-                //Assign the first room to the meeting
-                int[] room = free.poll();
-                room[0] = 1;
-                room[1] = meetings[i][1];
-                room[2] ++;
-                
-                //Put updated room into taken heap
-                taken.offer(room);
-                System.out.println(i);
+
+            int[] room;
+
+            if(!freeRooms.isEmpty()){
+                room = freeRooms.poll();
+            }else{
+                room = usedRooms.poll();
+                difference = room[0] - meeting[0];
             }
-            //If no room is available at the moment
-            else{
-                //Get the room with earliest finish time
-                int[] room = taken.poll();
 
-                //Update current meeting timings
-                if(room[1] > meetings[i][0]){
-                    int difference = room[1] - meetings[i][0]; //EndTime of room - start of meeting
-                    meetings[i][0] += difference;
-                    meetings[i][1] += difference;
-                }
-
-                //Update room with updated meeting times
-                room[0] = 1;
-                room[1] = meetings[i][1];
-                room[2] ++;
-
-                taken.offer(room);
-                System.out.println(i);
-            }   
-
-            
+            room[0] = start + duration + difference;
+            room[1] ++;
+            roomCounts[room[2]]++;
+            usedRooms.offer(room);
         }
 
-        //Post - Traversal find max room
-        int maxRoom = 101;
         int maxCount = -1;
+        int maxRoom = 0;
 
-        while(!free.isEmpty()){
-            taken.offer(free.poll());
+        for(int i=0; i < n; i++){
+            if(roomCounts[i] > maxCount){
+                maxCount = roomCounts[i];
+                maxRoom = i;
+            }
         }
-
-        
-        while(!taken.isEmpty()){
-            int[] room = taken.poll();
-            System.out.println("" + room[1] + " " + room[2] + " " + room[3]);
-
-            
-            if(maxCount <= room[2]){     //Compares the count of room and room no
-                if(maxCount == room[2] && maxRoom < room[3]){
-                    continue;
-                }
-                maxRoom = room[3];
-                maxCount = room[2];
-
-                System.out.println("Max Room = " + maxRoom + "\tMax count = " + maxCount);
-            }  
-        }
-
-
 
         return maxRoom;
+
+
+        
+        
+
     }
 }
