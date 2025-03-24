@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavdeepaware/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arnavdeepaware/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/arnavdeepaware/leetcode/tree/master/0217-contains-duplicate) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arnavdeepaware/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
@@ -594,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arnavdeepaware/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/arnavdeepaware/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
