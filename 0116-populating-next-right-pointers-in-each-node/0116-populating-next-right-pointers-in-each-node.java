@@ -23,43 +23,22 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
+        return helper(root, null);
 
-        //Level Order Traversal
-        if(root == null){
-            return null;
-        }
+    }
 
-        Queue<Node> pq = new LinkedList<>();
-        Queue<Node> children = new LinkedList<>();
+    public Node helper(Node root, Node next){
+        if(root == null) return null;
 
-        pq.offer(root);
-
-        while(!pq.isEmpty()){
-
-            int n = pq.size(); //Current level size
-
-            for(int i = 0; i < n; i++){
-                Node curr = pq.poll();
-
-                //Update next pointer
-                if(i == n-1){
-                    curr.next = null;
-                } else{
-                    curr.next = pq.peek();
-                }
-
-                //Add children to queue
-                if(curr.left != null){
-                    pq.offer(curr.left);
-                }
-
-                if(curr.right != null){
-                    pq.offer(curr.right);
-                }
-            }
+        root.next = next;
+        helper(root.left, root.right);
+        
+        if(root.next == null){
+            helper(root.right, null);
+        }else{
+            helper(root.right, root.next.left);
         }
 
         return root;
-        
     }
 }
