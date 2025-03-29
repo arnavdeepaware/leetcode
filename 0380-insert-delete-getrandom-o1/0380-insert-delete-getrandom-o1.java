@@ -36,7 +36,6 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        System.out.println(nums.get(0));
         return nums.get(rand.nextInt(nums.size()));
     }
 }
