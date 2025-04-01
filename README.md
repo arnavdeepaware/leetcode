@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/arnavdeepaware/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2262-solving-questions-with-brainpower](https://github.com/arnavdeepaware/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arnavdeepaware/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/arnavdeepaware/leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/arnavdeepaware/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Bit Manipulation
 |  |
 | ------- |
