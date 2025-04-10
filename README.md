@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arnavdeepaware/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/arnavdeepaware/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arnavdeepaware/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arnavdeepaware/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/arnavdeepaware/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/arnavdeepaware/leetcode/tree/master/3194-find-words-containing-character) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arnavdeepaware/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arnavdeepaware/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/arnavdeepaware/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/arnavdeepaware/leetcode/tree/master/3447-clear-digits) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/arnavdeepaware/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arnavdeepaware/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
