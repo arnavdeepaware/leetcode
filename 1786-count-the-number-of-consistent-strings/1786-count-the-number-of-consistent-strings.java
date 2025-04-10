@@ -1,31 +1,45 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
+        
+        /*
+            - We can use bitmasking to create a mask of allowed bits (characters) from a to z
+            - set bits for each char using OR and left shift
 
-        //Hashset
-        HashSet<Character> allowedChars = new HashSet<>();
+            - Initialize a counter
+            - For every word,
+                - Set a boolean to true
+                - Loop through every char in words
+                - Check with the allowedbits by using rightshift and AND
+                - If not found, set boolean to false, break loop
+                - At the end of inner loop, if boolean is true increase counter
 
-        //Add allowed chars to our set
+            - return the count of consistent strings
+        */
+
+        //Setting allowed bits
+        int allowedBits = 0;
         for(char c: allowed.toCharArray()){
-            allowedChars.add(c);
+            allowedBits |= 1 << (c - 'a');
         }
 
-        //For every word - check if each char is allowed or not
-        // if not skip the word
-        // if yes, increase the count
-
+        //Counter
         int count = 0;
+
+        //Loop
         for(String word: words){
-            boolean isValid = true;
-            for(char c : word.toCharArray()){
-                if(!allowedChars.contains(c)){
-                    isValid = false;
+            boolean isConsistent = true;
+            for(char c: word.toCharArray()){
+                int bit = (allowedBits >> (c - 'a')) & 1;
+                if(bit == 0){
+                    isConsistent = false;
                     break;
                 }
             }
-            if (isValid) count++;
+
+            if(isConsistent) count++;
         }
 
         return count;
-        
+
     }
 }
