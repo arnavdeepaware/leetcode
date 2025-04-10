@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arnavdeepaware/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arnavdeepaware/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arnavdeepaware/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arnavdeepaware/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/arnavdeepaware/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arnavdeepaware/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arnavdeepaware/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arnavdeepaware/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Counting Sort
 |  |
 | ------- |
