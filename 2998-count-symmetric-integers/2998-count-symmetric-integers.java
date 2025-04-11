@@ -2,43 +2,36 @@ class Solution {
     public int countSymmetricIntegers(int low, int high) {
 
         /*  
+            - Given the constraints of the problem, we will only have symmteric numbers when they are two or four digit numbers
+            - If its two digit:
+                - Check for divsibility by 11
+            - If its for digits:
+                - Find the left sum
+                - Find the right sum
+                - Compare the sums
             - Initialize a counter
             - Traverse from all numbers between low and high inclusive
-            - Convert them to a string
-            - Skip odd length strings
-            - Else, divide into halves
-            - compute and compare the sums for the halves
-            - If equal increase counter
 
             - return the count
         */
 
         int count = 0;
 
-        for(int num = low; num <= high; num++){
-            String n = Integer.toString(num);
-
-            //Check for odd length
-            if(n.length() % 2 == 1) continue;
-
-            String h1 = n.substring(0, n.length() / 2);
-            String h2 = n.substring(n.length() / 2);
-
-            int sum = 0;
-
-            for(char c: h1.toCharArray()){
-                sum += Character.getNumericValue(c);
+        for(int n = low; n <= high; n++){
+            //Check for two digits
+            if( n < 100 && n % 11 == 0){
+                count++;
             }
 
-            for(char c: h2.toCharArray()){
-                sum -= Character.getNumericValue(c);
-            }
+            else if (n >= 1000 && n < 10000){
+                int right = (n % 100) / 10 + (n % 10);
+                int left = (n / 1000) + (n / 100) % 10;
 
-            if(sum == 0) count++;
+                if(left == right) count++;
+            }
         }
 
         return count;
-
         
     }
 }
