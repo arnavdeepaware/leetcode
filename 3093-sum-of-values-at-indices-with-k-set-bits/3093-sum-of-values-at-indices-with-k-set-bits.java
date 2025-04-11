@@ -15,7 +15,17 @@ class Solution {
         for(int i = 0; i < nums.size(); i++){
             
             //Count the setbits
-            if(Integer.bitCount(i) == k) sum += nums.get(i);
+            int bitCount = 0;
+            int n = i;
+
+            while(n != 0){
+                bitCount += n & 1;
+                n >>= 1;
+            }
+
+            if(bitCount == k){
+                sum += nums.get(i);
+            }
         }
 
         return sum;
