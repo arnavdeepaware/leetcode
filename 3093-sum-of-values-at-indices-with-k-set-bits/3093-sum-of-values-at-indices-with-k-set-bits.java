@@ -10,25 +10,10 @@ class Solution {
             - return sum
         */
 
-        int sum = 0;
-
-        for(int i = 0; i < nums.size(); i++){
-            
-            //Count the setbits
-            int bitCount = 0;
-            int n = i;
-
-            while(n != 0){
-                bitCount += n & 1;
-                n >>= 1;
-            }
-
-            if(bitCount == k){
-                sum += nums.get(i);
-            }
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+            if(Integer.bitCount(i) == k) sum+=nums.get(i);
         }
-
         return sum;
-
     }
 }
