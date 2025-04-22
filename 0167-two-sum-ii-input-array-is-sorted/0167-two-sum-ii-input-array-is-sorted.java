@@ -1,27 +1,26 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        //Two Pointer Approach
-        int[] ans = new int[2];
+    public int[] twoSum(int[] nums, int target) {
 
         int left = 0;
-        int right = numbers.length - 1;
+        int right = nums.length - 1;
 
         while(left < right){
-            int sum = numbers[left] + numbers[right];
+            int sum = nums[left] + nums[right];
 
             if(sum == target){
-                ans[0] = left + 1;
-                ans[1] = right + 1;
-                return ans;
+                return new int[]{left + 1, right + 1};
             }
 
             if(sum > target){
-                right --;
-            }else{
+                right--;
+            }
+
+            else{
                 left ++;
             }
         }
 
-        return ans;
+        return new int[]{0, 0};
+
     }
 }
