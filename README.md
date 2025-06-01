@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/arnavdeepaware/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arnavdeepaware/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/arnavdeepaware/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arnavdeepaware/leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arnavdeepaware/leetcode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
