@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arnavdeepaware/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/arnavdeepaware/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arnavdeepaware/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/arnavdeepaware/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arnavdeepaware/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arnavdeepaware/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arnavdeepaware/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arnavdeepaware/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/arnavdeepaware/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
