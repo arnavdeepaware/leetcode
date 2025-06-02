@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/arnavdeepaware/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arnavdeepaware/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/arnavdeepaware/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arnavdeepaware/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/arnavdeepaware/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
