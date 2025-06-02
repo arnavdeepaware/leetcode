@@ -1,45 +1,41 @@
 class Solution {
     public int candy(int[] ratings) {
-        
-        int n = ratings.length;
 
-        if(n == 1){
+        if(ratings.length == 1){
             return 1;
         }
 
-        int[] ans = new int[n];
+        int[] candyCount = new int[ratings.length];
+
         if(ratings[0] > ratings[1]){
-            ans[0] = 2;
+            candyCount[0] = 2;
         }else{
-            ans[0] = 1;
-        }
-
-        for(int i = 1; i < n; i++){
-            //Check left nb
-            if(ratings[i] > ratings[i-1]){
-                ans[i] = ans[i-1] + 1;
-            } else{
-                ans[i] = 1;
-            }
-
-            System.out.print(ans[i]);
-        }
-
-        System.out.println("");
-
-        int total = ans[n-1];
-
-        //Right nb
-        for(int i = n-2; i>= 0; i--){
-            if(ratings[i] > ratings[i+1] && ans[i] <= ans[i+1]){
-                ans[i] = ans[i+1] + 1;
-            }
-
-            total += ans[i];
-            System.out.print(ans[i]);
+            candyCount[0] = 1;
         }
         
 
-        return total;
+        //Left to Right
+        for(int i = 1; i < ratings.length; i++){
+            if(ratings[i] > ratings[i-1]){
+                candyCount[i] = candyCount[i-1] + 1;
+            }else{
+                candyCount[i] = 1;
+            }
+        }
+
+        //Right to Left
+        for(int i = ratings.length - 2; i >= 0; i--){
+            if(ratings[i] > ratings[i+1] && candyCount[i] <= candyCount[i+1]){
+                candyCount[i] = candyCount[i+1] + 1;
+            }
+        }
+
+        int sum = 0;
+        for(int candies: candyCount){
+            sum += candies;
+        }
+
+        return sum;
+        
     }
 }
