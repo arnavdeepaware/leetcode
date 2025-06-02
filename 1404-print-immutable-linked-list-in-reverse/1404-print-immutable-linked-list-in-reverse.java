@@ -10,19 +10,13 @@
 class Solution {
     public void printLinkedListInReverse(ImmutableListNode head) {
 
-        Stack<ImmutableListNode> st = new Stack<>();
-
-        st.push(head);
-
-        while(head.getNext() != null){
-            head = head.getNext();
-            st.push(head);
+        if(head == null){
+            return;
         }
 
-        while(!st.empty()){
-            st.pop().printValue();
-        }
-        
+        printLinkedListInReverse(head.getNext());
+        head.printValue();
+
         return;
     }
 }
