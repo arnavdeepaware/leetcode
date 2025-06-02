@@ -18,20 +18,31 @@ class Node {
 */
 
 class Solution {
-    private List<Integer> res = new ArrayList<>();
-
     public List<Integer> preorder(Node root) {
-        helper(root);
-        return res;
-    }
 
-    public void helper(Node root){
+        List<Integer> res = new ArrayList<>();
+
         if(root == null){
-            return;
+            return res;
         }
-        res.add(root.val);
-        for(Node child: root.children){
-            helper(child);
+
+        Stack<Node> st = new Stack<>();
+
+        st.push(root);
+
+        while(!st.empty()){
+            Node curr = st.pop();
+            res.add(curr.val);
+            System.out.println(curr.val);
+
+            Collections.reverse(curr.children);
+
+            for(Node child: curr.children){
+                st.push(child);
+            }
         }
+
+        return res;
+        
     }
 }
