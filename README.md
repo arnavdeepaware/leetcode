@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavdeepaware/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/arnavdeepaware/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1909-buildings-with-an-ocean-view](https://github.com/arnavdeepaware/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/arnavdeepaware/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/arnavdeepaware/leetcode/tree/master/1944-truncate-sentence) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arnavdeepaware/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1909-buildings-with-an-ocean-view](https://github.com/arnavdeepaware/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arnavdeepaware/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/arnavdeepaware/leetcode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/arnavdeepaware/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1909-buildings-with-an-ocean-view](https://github.com/arnavdeepaware/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Tree
 |  |
 | ------- |
