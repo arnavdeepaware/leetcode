@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arnavdeepaware/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-destination-city](https://github.com/arnavdeepaware/leetcode/tree/master/1547-destination-city) |
 | [1580-shuffle-the-array](https://github.com/arnavdeepaware/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arnavdeepaware/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1547-destination-city](https://github.com/arnavdeepaware/leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/arnavdeepaware/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arnavdeepaware/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/arnavdeepaware/leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
