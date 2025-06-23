@@ -1,29 +1,20 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 
-        // //Storage Efficient
-        // Arrays.sort(nums);
+        //Hash Set or Sorting
+        HashSet<Integer> visited = new HashSet<>();
 
-        // for(int i = 0; i < nums.length - 1; i++){
-        //     if(nums[i] == nums[i+1]){
-        //         return true;
-        //     }
-        // }
+        for(int n : nums){
 
-        // return false;
-
-        //Memory Efficient
-        HashSet <Integer> set = new HashSet<Integer>();
-
-        for(int n: nums){
-            if(set.contains(n)){
+            //Check if n is already visited
+            if(visited.contains(n)){
                 return true;
             }
-
-            set.add(n);
+            
+            //n is not visited 
+            visited.add(n);
         }
 
         return false;
-        
     }
 }
