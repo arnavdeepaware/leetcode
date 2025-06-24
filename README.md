@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arnavdeepaware/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1074-high-five](https://github.com/arnavdeepaware/leetcode/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/arnavdeepaware/leetcode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arnavdeepaware/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/arnavdeepaware/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arnavdeepaware/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/arnavdeepaware/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/arnavdeepaware/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -745,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
@@ -761,4 +766,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arnavdeepaware/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/arnavdeepaware/leetcode/tree/master/2998-count-symmetric-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
