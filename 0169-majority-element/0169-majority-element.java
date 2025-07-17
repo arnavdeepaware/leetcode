@@ -1,37 +1,42 @@
 class Solution {
     public int majorityElement(int[] nums) {
         
-        // Boyer-Moore Voting Algorithm
         /*
-            - We use increment and decrements
-            - We store the count and assume the first element as majority element
-            - Traverse the array, 
-                - If element is == majority, increment count
-                - Else, decrement 
-                - If anytime, count == 0, we reset the majority to next element
-            - Given the constraints of the problem, there are more majority elements than minority.
-            - We are cancelling the majority count by minority times.
-            - At the end, when all minorities are counted, we will inevitably be left with the majority
-            - It is important to never let count go to -1
+            U - Understand
+            - Min. length of input array?
+            - Does the answer always exist?
+
+            -> 5 3 5 5 3
+
+            - Count variable and tempX
+            - iterate through nums
+            - assign tempX as nums[0]
+            - At each iteraton
+                    - if num[i] == tempX
+                        - increase count
+                    - else
+                        - decrease count
+                        - if count == 0
+                        - tempX = nums[i] -- check for last element 
+
+            - return tempX
         */
 
-        int ct = 1;
-        int majority = nums[0];
+        int ct = 0;
+        int tempX = nums[0];
 
-        for(int i = 1; i < nums.length; i++){
-            if(nums[i] == majority){
+        for(int i = 0; i < nums.length; i++){
+            if (nums[i] == tempX){
                 ct++;
             }else{
                 ct--;
-            }
 
-            if(ct == 0){
-                ct = 1;
-                majority = nums[++i];
+                if(ct == 0 && i < nums.length - 1){
+                    tempX = nums[i + 1];
+                }
             }
         }
 
-        return majority; 
-
+        return tempX;
     }
 }
