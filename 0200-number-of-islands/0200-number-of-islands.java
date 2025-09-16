@@ -1,38 +1,37 @@
 class Solution {
     public int numIslands(char[][] grid) {
 
-        int ct = 0;
-
-        for(int row = 0; row < grid.length; row++){
-            for(int col = 0; col < grid[row].length; col++){
-                if(grid[row][col] == '1'){
-                    helper(grid, row, col);
-                    ct++;
+        int res = 0;
+        for(int i = 0; i < grid.length; i++){
+            for(int j = 0; j < grid[0].length; j++){
+                if(grid[i][j] == '1'){
+                    res ++;
+                    helper(grid, i ,j);
                 }
             }
         }
 
-        return ct;
+        return res;
     }
 
-    public void helper(char[][] grid, int r, int c){
-        //Edge Cases
-        if (r < 0 || r >= grid.length || c < 0 || c >= grid[0].length || grid[r][c] == '0'){
+    //Helper function - dfs or bfs?
+    public void helper(char[][] grid, int i, int j){
+        //Base Case
+        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == '0'){
             return;
         }
 
-        grid[r][c] = '0';
+        grid[i][j] = '0';
 
-        //Up
-        helper(grid, r-1, c);
-
+        //Recursive Step
+        
+        //left
+        helper(grid, i-1, j);
         //Right
-        helper(grid, r, c+1);
-
+        helper(grid, i+1, j);
+        //Up
+        helper(grid, i, j-1);
         //Down
-        helper(grid, r+1, c);
-
-        //Left
-        helper(grid, r, c-1);
+        helper(grid, i, j+1); 
     }
 }
