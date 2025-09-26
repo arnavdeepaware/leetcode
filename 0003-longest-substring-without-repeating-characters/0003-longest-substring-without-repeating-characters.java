@@ -28,7 +28,7 @@ class Solution {
             if(currWord.contains(s.charAt(i))){
 
                 //Move left pointer to the index of repeating char
-                if(s.charAt(left) != s.charAt(i)){
+                while(s.charAt(left) != s.charAt(i)){
                     currWord.remove(s.charAt(left));
                     left++;
                 }
