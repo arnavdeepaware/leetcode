@@ -9,41 +9,43 @@ class Solution {
                 - before moving update max
                 - move left while same char and less or equal to i
                 - continue loop
+            - ad
         */
 
-        //Edge Case
+        //Edge case
         if(s.length() < 2){
             return s.length();
         }
-        
-        //Vars
-        int max = 1;
-        int left = 0;
 
-        //Set
         HashSet<Character> currWord = new HashSet<>();
         currWord.add(s.charAt(0));
 
-        //Traversal
-        for(int i = 1; i < s.length(); i++){
+        int max = 1;
+        int left = 0;
 
-            //Check repeating chars
+        for(int i = 1; i < s.length(); i++){
+            //Check for repeating character
             if(currWord.contains(s.charAt(i))){
 
-                //Move left pointer
-                while(s.charAt(left) != s.charAt(i)){
+                //Move left pointer to the index of repeating char
+                if(s.charAt(left) != s.charAt(i)){
                     currWord.remove(s.charAt(left));
                     left++;
                 }
+
+                //Move left pointer one ahead of the repeating char
                 left++;
             }
 
+            //Add right/i pointer char to currWord
             currWord.add(s.charAt(i));
-            //Update Max
-            max = Math.max(currWord.size(), max);
+
+            //Update max
+            max = Math.max(max, currWord.size());
         }
 
-        max = Math.max(currWord.size(), max);
+        max = Math.max(max, currWord.size());
+
         return max;
     }
 }
