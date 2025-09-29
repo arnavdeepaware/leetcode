@@ -22,21 +22,18 @@ class Solution {
             - return tempX
         */
 
-        int ct = 0;
-        int tempX = nums[0];
+        int target = nums.length / 2;
 
-        for(int i = 0; i < nums.length; i++){
-            if (nums[i] == tempX){
-                ct++;
-            }else{
-                ct--;
+        HashMap<Integer, Integer> count = new HashMap<>();
 
-                if(ct == 0 && i < nums.length - 1){
-                    tempX = nums[i + 1];
-                }
-            }
+        for(int num: nums){
+            int ct = count.getOrDefault(num, 0);
+            ct++;
+
+            if(ct > target) return num;
+            count.put(num, ct);
         }
 
-        return tempX;
+        return -1;
     }
 }
