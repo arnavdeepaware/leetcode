@@ -22,18 +22,24 @@ class Solution {
             - return tempX
         */
 
-        int target = nums.length / 2;
+        int ct = 0;
+        Integer temp = null;
 
-        HashMap<Integer, Integer> count = new HashMap<>();
+        for(int n: nums){
+            if(ct == 0) temp = n;
 
-        for(int num: nums){
-            int ct = count.getOrDefault(num, 0);
-            ct++;
-
-            if(ct > target) return num;
-            count.put(num, ct);
+            ct += (n == temp) ? 1: -1;
         }
 
-        return -1;
+        return temp;
     }
 }
+
+/*
+             m
+    - [1,2,2,2,2,6,9]
+
+    
+                m
+    - [[1,1,1,2,2,2,2,2]]
+*/
