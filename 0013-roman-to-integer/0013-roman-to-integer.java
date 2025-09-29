@@ -10,19 +10,22 @@ class Solution {
         hm.put('D', 500);
         hm.put('M', 1000);
 
-        int ans  = 0;
+        int total = 0;
 
-        for(int i = 0; i < s.length()-1; i++){
+        for (int i =0; i < s.length()-1; i++)
+        {
             int val = hm.get(s.charAt(i));
 
             if(val < hm.get(s.charAt(i+1))){
-                ans -= val;
+                total -= val;
             }else{
-                ans += val;
+                total += val;
             }
         }
 
-        ans += hm.get(s.charAt(s.length() - 1));
-        return ans;
+        total += hm.get(s.charAt(s.length() -1));
+
+        return total;
+        
     }
 }
