@@ -674,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arnavdeepaware/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -793,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arnavdeepaware/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arnavdeepaware/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Enumeration
 |  |
