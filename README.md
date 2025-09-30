@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arnavdeepaware/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arnavdeepaware/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/arnavdeepaware/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/arnavdeepaware/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/arnavdeepaware/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavdeepaware/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/arnavdeepaware/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0487-max-consecutive-ones-ii) |
