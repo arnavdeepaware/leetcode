@@ -2,51 +2,60 @@ class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
 
         /*
-        - Create two 2d arrays c and b
-        - Track the longest subsequence in c and directions in b
+                p
+            - "ace"
+            - "abcde"
+                q
 
-        - Use a 2D array traversal
-        - i,j will represent the substrings in text1 and text2 respectively
-        - x and y represent the len of lcs at i,j
+            Case 1: chars match -> ans is 1 + len(longestcommonsubseq. of remaining strings)
+            Case 2: chars dont match -> ans is between the two substrings where we exclude p once and then q
 
-        3 Cases:
-        - i or j == 0, one or both the substrings are empty, max len = 0
-        - i > 0, j > 0, and x == , same character, we have to add to our subsequnce length by incrementing the previous i and j => c-i-1, j-1]
-        - i> 0, j > 0, x != y, copy the len of lcs of the greater value between c[i-1] or c[j-1]
-        - Recursively Print the lcs
-         */
+                a c e ""
+            a   1     0
+            b     A B 0
+            c     C D 0
+            d       E 0
+            e       F 0
+           ""   0 0 0 0
 
-        int[][] c = new int[text1.length()+ 1][text2.length() + 1];
-        //int[][] b = new int[text1.length() + 1][text2.length() + 1];
+            Approach
+            - initialize dp array[][] 
+                of length text1.len * text2.len (m * n)
+            
+            - traverse the 2D dp array in reverse
+            - at each element, consider the 2 cases
+            - case 1: if true
+                        -> assign dp[r][c]: 1 + diagonal value (dp[r+1][c+1])
+            
+            - else case2:
+                        -> assign dp[r][c]: max between right and bottom value
+            
+            - end of traversal, return the first element of the dp array
 
-        for(int i=1; i < c.length; i++){
-            char x = text1.charAt(i-1);
-            for(int j = 1; j < c[0].length; j++){
-                char y = text2.charAt(j-1);
+
+            Edge Case / Notes
+            - Empty String(s)? -> no
+            - types of chars in input -> lowercase english char only, no spaces
+            - assuming empty string can return 0
+            - length of string? -> computable within standard data types of Java
+            
+        */
+
+        int[][] dp = new int[text1.length() + 1][text2.length() + 1];
+
+        for(int r = text1.length() - 1; r >= 0; r--){
+            for(int c = text2.length() - 1; c >= 0; c--){
 
                 //Case 1
-                if(x == y){
-                    c[i][j] = c[i-1][j-1] + 1;
-                    //b[i,j] = 2;
-                } else if(c[i-1][j] >= c[i][j-1]){
-                    c[i][j] = c[i-1][j];
-                    //b[i,j] = 3;
-                } else{
-                    c[i][j] = c[i][j-1];
-                    //b[i,j] = 1;                    
+                if(text1.charAt(r) == text2.charAt(c)){
+                    dp[r][c] = 1 + dp[r+1][c+1];
+                }else{  //Case 2
+                    dp[r][c] = Math.max(dp[r][c+1], dp[r+1][c]);
                 }
             }
         }
 
-        return c[text1.length()][text2.length()];
+        return dp[0][0];
+        
     }
-
-
-
-
-
-    
-
-
-
 }
