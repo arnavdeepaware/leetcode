@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/arnavdeepaware/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/arnavdeepaware/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arnavdeepaware/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arnavdeepaware/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/arnavdeepaware/leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/arnavdeepaware/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arnavdeepaware/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/arnavdeepaware/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/arnavdeepaware/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0487-max-consecutive-ones-ii) |
