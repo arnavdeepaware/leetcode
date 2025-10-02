@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/arnavdeepaware/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/arnavdeepaware/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/arnavdeepaware/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/arnavdeepaware/leetcode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arnavdeepaware/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/arnavdeepaware/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/arnavdeepaware/leetcode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arnavdeepaware/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/arnavdeepaware/leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arnavdeepaware/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/arnavdeepaware/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arnavdeepaware/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
