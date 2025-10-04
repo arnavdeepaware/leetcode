@@ -1,19 +1,26 @@
 class Solution {
     public int climbStairs(int n) {
-
-        if(n == 1 || n == 2){
-            return n;
-        }
         
-        int[] level = new int[n];
-        level[0] = 1;
-        level[1] = 2;
+        /*
+            - [1,2,3,5,8,13,21]
+
+            base case: n = 1: 1
+                       n = 2: 2
+
+        */
+
+        //Edge Case
+        if(n < 3) return n;
+
+        //DP Array to store steps at each level/iteration
+        int[] dp = new int[n];
+        dp[0] = 1;
+        dp[1] = 2;
 
         for(int i = 2; i < n; i++){
-            level[i] = level[i-1] + level[i-2];
+            dp[i] = dp[i-2] + dp[i-1];
         }
 
-        return level[n-1];
-        
+        return dp[n-1];
     }
 }
