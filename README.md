@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arnavdeepaware/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1074-high-five](https://github.com/arnavdeepaware/leetcode/tree/master/1074-high-five) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/arnavdeepaware/leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1127-last-stone-weight](https://github.com/arnavdeepaware/leetcode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/arnavdeepaware/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/arnavdeepaware/leetcode/tree/master/1073-number-of-enclaves) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/arnavdeepaware/leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/arnavdeepaware/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/arnavdeepaware/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/arnavdeepaware/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/arnavdeepaware/leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/arnavdeepaware/leetcode/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/arnavdeepaware/leetcode/tree/master/1916-find-center-of-star-graph) |
@@ -835,4 +838,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/arnavdeepaware/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/arnavdeepaware/leetcode/tree/master/0969-number-of-recent-calls) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/arnavdeepaware/leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 <!---LeetCode Topics End-->
