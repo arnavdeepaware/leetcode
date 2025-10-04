@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/arnavdeepaware/leetcode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/arnavdeepaware/leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0898-transpose-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0898-transpose-matrix) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/arnavdeepaware/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/arnavdeepaware/leetcode/tree/master/1170-shortest-common-supersequence) |
