@@ -718,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arnavdeepaware/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/arnavdeepaware/leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/arnavdeepaware/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arnavdeepaware/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
