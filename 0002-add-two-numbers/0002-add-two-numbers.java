@@ -14,51 +14,47 @@ class Solution {
         ListNode head = new ListNode();
         ListNode curr = head;
 
-        int carryOver = 0;
+        int carry = 0;
 
-        while(l1 != null && l2!= null){
-            int sum  = l1.val + l2.val + carryOver;
-            int digit  = sum % 10;
-            carryOver = sum / 10;
+        while(l1 != null && l2 != null){
+            int sum = l1.val + l2.val + carry;
+            int digit = sum % 10;
+            carry = sum / 10;
 
-            curr.next = new ListNode(digit); 
+            curr.next = new ListNode(digit);
+            curr = curr.next;
 
-            //move pointers
             l1 = l1.next;
             l2 = l2.next;
-            curr = curr.next;
         }
 
-         while(l1 != null){
-            int sum  = l1.val + carryOver;
-            int digit  = sum % 10;
-            carryOver = sum / 10;
+        while(l1 != null){
+            int sum = l1.val + carry;
+            int digit = sum % 10;
+            carry = sum / 10;
 
-            curr.next = new ListNode(digit); 
-
-            //move pointer
-            l1 = l1.next;
+            curr.next = new ListNode(digit);
             curr = curr.next;
+
+            l1 = l1.next;
         }
 
         while(l2 != null){
-            int sum  = l2.val + carryOver;
-            int digit  = sum % 10;
-            carryOver = sum / 10;
+            int sum = l2.val + carry;
+            int digit = sum % 10;
+            carry = sum / 10;
 
-            curr.next = new ListNode(digit); 
-            
-
-            //move pointer
-            l2 = l2.next;
+            curr.next = new ListNode(digit);
             curr = curr.next;
+
+            l2 = l2.next;
         }
 
-        if(carryOver == 1) curr.next = new ListNode(1);
+        if(carry == 1){
+            curr.next = new ListNode(carry);
+        }
 
         return head.next;
-
-        
         
     }
 }
