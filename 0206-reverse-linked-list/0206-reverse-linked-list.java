@@ -10,20 +10,23 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-       
-       if(head == null || head.next == null){
-        return head;
-       }
+        
+        //Edge Case: 0 or 1 node
+        if(head == null || head.next == null) return head;
 
-       ListNode prev = null;
+        ListNode curr = head;
+        ListNode prev = null;
 
-       while(head!= null){
-            ListNode next = head.next;
-            head.next = prev;
-            prev = head;
-            head = next;
-       }
+        while(curr != null){
 
-       return prev;
+            ListNode next = curr.next;
+            curr.next = prev;
+            
+            //Move pointers ahead
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
     }
 }
