@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/arnavdeepaware/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavdeepaware/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arnavdeepaware/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavdeepaware/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arnavdeepaware/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arnavdeepaware/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arnavdeepaware/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arnavdeepaware/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
