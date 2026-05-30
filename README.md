@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/arnavdeepaware/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/arnavdeepaware/leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/arnavdeepaware/leetcode/tree/master/1651-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/arnavdeepaware/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/arnavdeepaware/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arnavdeepaware/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/arnavdeepaware/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/arnavdeepaware/leetcode/tree/master/0647-palindromic-substrings) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1768-merge-strings-alternately](https://github.com/arnavdeepaware/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/arnavdeepaware/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
