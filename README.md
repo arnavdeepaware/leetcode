@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/arnavdeepaware/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/arnavdeepaware/leetcode/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/arnavdeepaware/leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/arnavdeepaware/leetcode/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/arnavdeepaware/leetcode/tree/master/0978-valid-mountain-array) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/arnavdeepaware/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/arnavdeepaware/leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/arnavdeepaware/leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/arnavdeepaware/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/arnavdeepaware/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/arnavdeepaware/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/arnavdeepaware/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -891,5 +894,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/arnavdeepaware/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/arnavdeepaware/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
