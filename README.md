@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arnavdeepaware/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnavdeepaware/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [0487-max-consecutive-ones-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/arnavdeepaware/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/arnavdeepaware/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnavdeepaware/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/arnavdeepaware/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/arnavdeepaware/leetcode/tree/master/1406-stone-game-iii) |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/arnavdeepaware/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/arnavdeepaware/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [0487-max-consecutive-ones-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/arnavdeepaware/leetcode/tree/master/0647-palindromic-substrings) |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/arnavdeepaware/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/arnavdeepaware/leetcode/tree/master/1013-fibonacci-number) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/arnavdeepaware/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Memoization
@@ -886,5 +890,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/arnavdeepaware/leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/arnavdeepaware/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
