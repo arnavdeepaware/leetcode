@@ -4,10 +4,9 @@ class Solution {
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         int i = 0;
-        
-        while(minHeap.size() < k && i < nums.length){
+
+        for(; i < k; i++){
             minHeap.offer(nums[i]);
-            i++;
         }
 
         for(; i < nums.length; i++){
