@@ -1,43 +1,43 @@
 class Solution {
     public boolean isValid(String s) {
 
-        /*
-            
-            Have a stack
-            add all opening brackets
-            for any closing bracket,
-                - not good, if stack is empty
-                - not good, if top opening bracket should match
-                - good if opening matches
-
-            return true if st is empty
-        */
-
-        //HashMap and stack
         HashMap<Character, Character> map = new HashMap<>();
+
         map.put(')', '(');
         map.put(']', '[');
         map.put('}', '{');
 
         Stack<Character> st = new Stack<>();
 
-        //Traversal of Input String
-        for(char c : s.toCharArray()){
-            //if opening bracket add to stack
+        for(char c: s.toCharArray()){
             if(!map.containsKey(c)){
                 st.push(c);
-            }
-            //if closing bracket
-            else{
+            }else{
                 if(st.isEmpty() || st.peek() != map.get(c)){
                     return false;
                 }
 
-                st.pop(); 
+                st.pop();
             }
         }
 
         return st.isEmpty();
-        
     }
 }
+
+
+/*
+    - Can the string be empty? - at least one 
+    - string strictly has these characters - yes
+    - 3 rules to comply
+
+    - Iterate the string and find (), [], {}
+    - If found, replace with empty string
+    - repeat until string(s) are not found
+
+    - return true if string is empty
+    - return false if not empty
+
+
+
+*/
