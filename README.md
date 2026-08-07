@@ -915,4 +915,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arnavdeepaware/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
