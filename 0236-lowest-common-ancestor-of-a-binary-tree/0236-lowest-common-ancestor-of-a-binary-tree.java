@@ -9,26 +9,27 @@
  */
 class Solution {
 
-    private TreeNode ans;
+    TreeNode ansNode;
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        this.helper(root, p, q);
-        return this.ans;
+            this.helper(root, p, q);
+            return this.ansNode;
     }
 
     public boolean helper(TreeNode root, TreeNode p, TreeNode q){
+        //Leaf or Null Node
         if(root == null){
             return false;
         }
 
-        int left = helper(root.left, p, q) ? 1: 0;
-        int right = helper(root.right, p, q) ? 1: 0;
-        int mid = (root == p || root == q) ? 1: 0;
+        //Traversal
+        int r = helper(root.right, p, q) ? 1:0;
+        int l = helper(root.left, p, q) ? 1:0;
+        int m = (root == p || root == q) ? 1:0;
 
-        if(left + mid + right >= 2){
-            this.ans = root;
-        }
+        //Check if curr node is the ansNode
+        if(r + m + l >= 2) this.ansNode = root;
 
-        return (left + mid + right > 0);
+        return (r + m + l > 0);
     }
 }
