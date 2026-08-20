@@ -1,13 +1,13 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
+        //Edge Case
+        if(nums.length == 1) return 1;
 
-        int[] dp = new int[nums.length];
+        int[]dp = new int[nums.length];
         dp[0] = 1;
 
-        for(int i = 1 ; i < nums.length; i++){
-            
+        for(int i = 1; i < nums.length; i++){
             dp[i] = 1;
-
             for(int j = 0; j < i; j++){
                 if(nums[j] < nums[i]){
                     dp[i] = Math.max(dp[i], dp[j] + 1);
@@ -15,12 +15,8 @@ class Solution {
             }
         }
 
-        int max = -1;
-        for(int len: dp){
-            max = Math.max(max, len);
-        }
-
-        return max;
-        
+        int max = - 1;
+        for(int n: dp) max = Math.max(max, n);
+        return max;  
     }
 }
