@@ -922,4 +922,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/arnavdeepaware/leetcode/tree/master/0200-number-of-islands) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/arnavdeepaware/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
