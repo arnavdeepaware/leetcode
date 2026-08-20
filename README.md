@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/arnavdeepaware/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/arnavdeepaware/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arnavdeepaware/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/arnavdeepaware/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/arnavdeepaware/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arnavdeepaware/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arnavdeepaware/leetcode/tree/master/0205-isomorphic-strings) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arnavdeepaware/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arnavdeepaware/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavdeepaware/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/arnavdeepaware/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arnavdeepaware/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arnavdeepaware/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/arnavdeepaware/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/arnavdeepaware/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/arnavdeepaware/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -895,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arnavdeepaware/leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/arnavdeepaware/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Game Theory
 |  |
