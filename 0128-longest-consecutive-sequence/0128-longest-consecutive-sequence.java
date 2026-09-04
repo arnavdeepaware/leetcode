@@ -18,27 +18,28 @@ class Solution {
             - after loop/traversal, return max
         */
 
-        //Hashset to store all nums 
+        //Edge case: array is empty
+        if(nums.length == 0) return 0;
+
+        //Hashset to store nums for lookup
         HashSet<Integer> set = new HashSet<>();
 
-        //Populate the set with the input
-        for(int n: nums){
-            set.add(n);
-        }
+        //Populating the set
+        for(int n : nums) set.add(n);
 
-        //max variable: return variable
+        //max streak variable: return variable
         int max = 0;
 
         //Loop
-        for(int n: set){
+        for(int n : set){
             
-            //Check if n is part of a sequence: n-1 shouldn't be part of the set to continue
+            //Check if n is part of a sequence: n-1 shouldn't be part of the sequence to continue
             if(!set.contains(n-1)){
-                
+
                 //Starting length of the current sequence
                 int curr = 1;
 
-                //while loop to find the length of this sequence
+                //While loop to find length of this sequence
                 while(set.contains(n+1)){
                     curr++;
                     n++;
@@ -49,6 +50,6 @@ class Solution {
             }
         }
 
-        return max;        
+        return max;       
     }
 }
