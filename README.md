@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arnavdeepaware/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/arnavdeepaware/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/arnavdeepaware/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arnavdeepaware/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavdeepaware/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/arnavdeepaware/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arnavdeepaware/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arnavdeepaware/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/arnavdeepaware/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arnavdeepaware/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arnavdeepaware/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2465-shifting-letters-ii](https://github.com/arnavdeepaware/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arnavdeepaware/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/arnavdeepaware/leetcode/tree/master/1503-reducing-dishes) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arnavdeepaware/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arnavdeepaware/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavdeepaware/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/arnavdeepaware/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/arnavdeepaware/leetcode/tree/master/2509-minimize-xor) |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arnavdeepaware/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/arnavdeepaware/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arnavdeepaware/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arnavdeepaware/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/arnavdeepaware/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
