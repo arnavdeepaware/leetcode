@@ -1,42 +1,48 @@
 class RandomizedSet {
-    List<Integer> nums;
+
+    //Class variables
     HashMap<Integer, Integer> map;
+    ArrayList<Integer> list;
     Random rand = new Random();
 
     //Constructor
     public RandomizedSet() {
-        nums = new ArrayList<>();
-        map = new HashMap<>();
+        this.map = new HashMap();
+        this.list = new ArrayList();
     }
     
-    
+    //Insert helper
     public boolean insert(int val) {
-        if(map.containsKey(val)){
-            return false;
-        }        
+        //If val is alr present
+        if(map.containsKey(val)) return false;
 
-        map.put(val, nums.size());
-        nums.add(val);
+        //Add val to map and list
+        map.put(val, list.size());
+        list.add(val);
         return true;
     }
-    
+
+    //Delete helper    
     public boolean remove(int val) {
-        if(!map.containsKey(val)){
-            return false;
-        }
+        //If val is not present
+        if(!map.containsKey(val)) return false;
 
-        int last = nums.get(nums.size() - 1);
-        int idx = map.get(val);
-        nums.set(idx, last);
-        map.put(last, idx);
-        nums.remove(nums.size() - 1);
+        //Swap elements
+        int lastVal = list.get(list.size() - 1);
+        int index = map.get(val);
+        map.put(lastVal, index);
+        list.set(index, lastVal);
+
+        //Delete last element
+        list.remove(list.size() - 1);
         map.remove(val);
-
         return true;
     }
     
     public int getRandom() {
-        return nums.get(rand.nextInt(nums.size()));
+        //Generate a random index
+        int random = rand.nextInt(list.size());
+        return list.get(random);
     }
 }
 
@@ -47,3 +53,17 @@ class RandomizedSet {
  * boolean param_2 = obj.remove(val);
  * int param_3 = obj.getRandom();
  */
+
+/* 
+    - Given the time constraints of O(1) for all three,
+    - Hashmap and set is a good candidate for O(1) insertion, deletion and lookups
+    - However, they can't return random elements since we need an index to retrieve an element from a randomly generated int (valid range)
+    - An arraylist will help, we can randomly retrieve elements
+    - Arraylist is also good with insertl
+    - However, deleting from an aribitrary index takees O(n)
+    - This can be solved if we are always deleting the last element of the arraylist
+    - We can swap the last element with the deleting one and perform the operation
+    - For this, we need to track indexes of each element in the arraylist
+
+    - Hence we will use a combination of hashmap and arraylist to implement this class
+*/
